@@ -54,7 +54,7 @@ public class LoginServlet extends HttpServlet {
 		{
 			PrintWriter out=response.getWriter();
 			out.println("Invalid Credentials");
-			RequestDispatcher dispatcher=request.getRequestDispatcher("Login1.html");
+			RequestDispatcher dispatcher=request.getRequestDispatcher("Login.html");
 			dispatcher.include(request, response);
 			
 		}

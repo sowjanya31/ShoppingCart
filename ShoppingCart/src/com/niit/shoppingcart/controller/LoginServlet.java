@@ -49,14 +49,16 @@ public class LoginServlet extends HttpServlet {
 		{
 			RequestDispatcher dispatcher=request.getRequestDispatcher("Home.html");
 			dispatcher.forward(request, response);
+			//response.sendRedirect("Home.html");
 		}
 		else
 		{
 			PrintWriter out=response.getWriter();
 			out.println("Invalid Credentials");
+			//request.setAttribute("message", "invalid credentials");
 			RequestDispatcher dispatcher=request.getRequestDispatcher("Login.html");
 			dispatcher.include(request, response);
-			
+			//response.sendRedirect("Login.html");
 		}
 	    }
 

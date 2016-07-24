@@ -40,8 +40,8 @@
       <ul class="nav navbar-nav navbar-right">
         <li><a  href="login.jsp"><span class="glyphicon glyphicon-log-in"></span> LOGIN</a></li>
         <li><a  href="views/register.jsp"><span class="glyphicon glyphicon-user"></span>SIGNUP</a></li>
-        <li><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</a></li>
-      </ul>
+        <!-- <li><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</a></li>
+ -->      </ul>
     </div>
   </div>
 <img src="<c:url value="/resources/images/new.png"/>" class="img-responsive" alt=""/>

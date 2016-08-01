@@ -3,16 +3,16 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+<!-- <meta http-equiv="refresh" content="0; URL=./onLoad" /> -->
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
 <title>Insert title here</title>
 </head>
 <body>
 <a href="view">HOME</a><br>
-<h2><center> Welcome To Shopping Cart Administration </h2> <p>  </center>
-<hr>
-<h2>
-<a href="categories"> Categories </a>  | <a href="suppliers"> Suppliers</a> |  <a href="products"> Products</a>   
-</h2>
+Fashionistas know that when it comes to Women's Bags, diversity is the key.It sells categories like sling bags,clutches and HandBags.
+
+
 </body>
+
 </html>

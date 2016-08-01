@@ -4,15 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-
 <title>Insert title here</title>
 </head>
 <body>
 <a href="view">HOME</a><br>
-<h2><center> Welcome To Shopping Cart Administration </h2> <p>  </center>
-<hr>
-<h2>
-<a href="categories"> Categories </a>  | <a href="suppliers"> Suppliers</a> |  <a href="products"> Products</a>   
-</h2>
+Contact Us:<br>
+Mobile:8125531672<br>
+Email Id:veesamshettysona@gmail.com
+
 </body>
 </html>

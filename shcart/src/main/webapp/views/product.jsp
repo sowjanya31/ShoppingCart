@@ -45,6 +45,7 @@
 </style>
 </head>
 <body>
+<a href="view">Home</a>
 	<h1>Add a Product</h1>
 
 	<%-- <form method="POST" action="uploadFile" enctype="multipart/form-data">

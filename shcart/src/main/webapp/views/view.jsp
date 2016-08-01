@@ -31,7 +31,7 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="view">Home</a></li>
+        <li class="active"><a href="index">Home</a></li>
         <li><a href="about">About</a></li>
         <!-- <li><a href="views/adminHome.jsp"></a></li>
         <li><a href="user.jsp"></a></li> -->

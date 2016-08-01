@@ -45,6 +45,7 @@
 </style>
 </head>
 <body>
+<a href="view">Home</a>
 	<h1>Add a Supplier</h1>
 
 	<c:url var="addAction" value="/supplier/add"></c:url>

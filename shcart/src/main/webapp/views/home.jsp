@@ -158,8 +158,8 @@ color:blue
 	</h1>
 	<table width="100%">
 		<tr>
-			<td>Exist user <a href="login.jsp"> Login here</a> <br></td>
-			<td align="center">New user<a href="views/register.jsp">
+			<td>Exist user <a href="login"> Login here</a> <br></td>
+			<td align="center">New user<a href="register.jsp">
 					Register here</a></td>
 			<td align="right"> <a href="myCart">  My Cart  </a>( ${cartSize} )</td>
 			

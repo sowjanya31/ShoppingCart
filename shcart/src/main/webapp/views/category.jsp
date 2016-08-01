@@ -45,6 +45,7 @@
 </style>
 </head>
 <body>
+<a href="view">Home</a>
 	<h1>Add a Category</h1>
 
 	<c:url var="addAction" value="/category/add"></c:url>
